@@ -1,12 +1,3 @@
-
-Denys Plaud <denys.plaud1@gmail.com>
-
-Code Java Krakat
-
-Denys Plaud <denys.plaud1@gmail.com>
-23 juin 2019 à 18:17
-À : denys.plaud1@gmail.com
-
 package com.denysplaud.krakat;
 
 // Krakatoid s'est envolé samedi 6 avril 2019...
